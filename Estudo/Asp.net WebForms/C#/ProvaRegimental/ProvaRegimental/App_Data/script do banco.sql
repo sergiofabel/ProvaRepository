@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[CPF]
+(
+	[Cod_cep] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Desc_cep] VARCHAR(60) NOT NULL,
+	[Lat_cep] NUMERIC(10,3) NOT NULL,
+	[Long_cep] NUMERIC(10,3) NOT NULL
+)

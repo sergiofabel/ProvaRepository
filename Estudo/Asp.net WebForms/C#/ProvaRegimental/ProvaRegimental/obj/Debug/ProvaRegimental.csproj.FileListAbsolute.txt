@@ -1,0 +1,200 @@
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll.config
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.pdb
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\EntityFramework.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Owin.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\WebGrease.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.pdb
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\EntityFramework.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.csprojResolveAssemblyReference.cache
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.dll
+C:\Users\logonaf\Downloads\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.pdb
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll.config
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.pdb
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.jQuery.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\EntityFramework.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Web.Infrastructure.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Owin.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\WebGrease.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.pdb
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\EntityFramework.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.dll
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.pdb
+D:\Arquivos\3 semestre\Tópicos especiais\Nova pasta\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.csprojResolveAssemblyReference.cache
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll.config
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.pdb
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.jQuery.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\EntityFramework.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Owin.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\WebGrease.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.pdb
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\EntityFramework.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.csprojResolveAssemblyReference.cache
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.dll
+E:\Git\repository\MyRepository\ASP.NET\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.pdb
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll.config
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\ProvaRegimental.pdb
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\AspNet.ScriptManager.jQuery.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\EntityFramework.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Web.Infrastructure.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Owin.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\WebGrease.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\System.Web.Optimization.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Antlr3.Runtime.pdb
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Newtonsoft.Json.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\EntityFramework.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\EntityFramework.SqlServer.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Google.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.csprojResolveAssemblyReference.cache
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.dll
+E:\Git\repository\Estudo\Asp.net WebForms\C#\ProvaRegimental\ProvaRegimental\obj\Debug\ProvaRegimental.pdb
