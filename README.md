@@ -1,2 +1,2 @@
 # Repository
- Esse projeto eu fiz para estudo.
+ Esse projeto foi feito para estudo.
